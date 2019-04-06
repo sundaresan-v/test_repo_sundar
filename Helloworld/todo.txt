@@ -1,0 +1,4 @@
+read this file .. Improve commit sections etc
+Work in python 
+Remote login 
+Git bash, Git Cmd 
